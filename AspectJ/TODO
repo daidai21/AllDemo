@@ -1,9 +1,9 @@
-https://github.com/eclipse/org.aspectj
 
 @Aspect
-
-import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;
 
-
-mvn archetype:generate -DgroupId=com.example.demo -DartifactId=AspectJ -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+Around
+Before
+After
+AfterReturning
+AfterThrowing
