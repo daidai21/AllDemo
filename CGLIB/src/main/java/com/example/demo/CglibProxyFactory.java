@@ -3,6 +3,9 @@ package com.example.demo;
 
 import net.sf.cglib.proxy.Enhancer;
 
+/**
+ * 获取代理类
+ */
 public class CglibProxyFactory {
 
     public static Object getProxy(Class<?> clazz) {
