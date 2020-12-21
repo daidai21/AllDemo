@@ -7,3 +7,8 @@ Before
 After
 AfterReturning
 AfterThrowing
+
+
+https://www.yiibai.com/spring/spring-aop-aspectj-annotation-example.html
+https://www.eclipse.org/aspectj/doc/released/progguide/starting.html#starting-intro
+https://github.com/alexec/aspectj-example/blob/master/src/main/java/com/alexecollins/TestModeOnlyException.java
