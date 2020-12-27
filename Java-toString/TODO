@@ -1,4 +1,0 @@
-import org.apache.commons.beanutils.BeanUtils;
-
-利用Apache工具类ToStringBuilder
-
