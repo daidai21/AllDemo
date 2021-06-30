@@ -1,0 +1,8 @@
+[{
+"runoob-new-key":"newkey",
+"runoob1":"redis",
+"greeting":"hello, dumping world!",
+"runoob2":"mysql",
+"runoobkey":{"name":"redis tutorial","description":"redis basic commands for caching","likes":"20"},
+"runoob3":"mongodb",
+"runoo":["mysql","mongodb","redis"]}]

@@ -1,0 +1,8 @@
+database,type,key,size_in_bytes,encoding,num_elements,len_largest_element,expiry
+0,string,runoob-new-key,64,string,6,6,
+0,string,runoob1,64,string,5,5,
+0,string,greeting,80,string,21,21,
+0,string,runoob2,64,string,5,5,
+0,hash,runoobkey,146,ziplist,3,32,
+0,string,runoob3,72,string,7,7,
+0,list,runoo,162,quicklist,3,7,
