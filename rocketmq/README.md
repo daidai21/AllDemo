@@ -1,4 +1,18 @@
 
+* producer
+    * 同步发送消息
+    * 异步发送消息
+    * 单向发送消息，例如日志上报
+    * 顺序消息生产
+    * 发送延迟消息
+    * 发送批量消息
+* consumer
+    * 消费消息
+    * 顺序消费消息
+* 事务消息
+
+[doc](https://github.com/apache/rocketmq/blob/master/docs/cn/README.md)
+
 ===
 
 rocketmq
